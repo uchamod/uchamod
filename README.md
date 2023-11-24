@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+
 I'm Chamod Udara
-dedicated
+I'm Chamod Udara from sri lanka.
+I'm undergraduate in university of sri jayawardananapura.
+I'm so enthusiasm to learn new things.I like designing and programming.
+
 <!--
 **uchamod/uchamod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
