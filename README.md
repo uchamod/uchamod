@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-
-I'm Chamod Udara
 I'm Chamod Udara from sri lanka.
-I'm undergraduate in university of sri jayawardananapura.
-I'm so enthusiasm to learn new things.I like designing and programming.
+I'm undergraduate student in university of sri jayawardananapura.
+current i am following BICT(hons) degree.I am so enthusiasm to discover new things specially 
+in UX reserches.I am currently do my programming works by java and C.And also I develop my UI design careea in
+figma.I belive my process working hard on it.
 
 <!--
 **uchamod/uchamod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
