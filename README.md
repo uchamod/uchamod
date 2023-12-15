@@ -6,8 +6,8 @@ current i am following BICT(hons) degree.I am so enthusiasm to discover new thin
 in UX reserches.I am currently do my programming works by java and C.And also I develop my UI design careea in
 figma.I belive my process working hard on it.-->
 
-[![Masterhead](https://i.pinimg.com/originals/1b/df/6e/1bdf6edd0508b5c000cadb70eced13a7.jpg)]
-<img src="<img src="http://art-sheep.com/wp-content/uploads/2015/03/gifconnoisseur2.gif" aling="right" width="1500" hight="600">" aling="right" width="300" hight="300">
+<!--[![Masterhead](https://i.pinimg.com/originals/1b/df/6e/1bdf6edd0508b5c000cadb70eced13a7.jpg)]-->
+<img src="https://i.pinimg.com/originals/1b/df/6e/1bdf6edd0508b5c000cadb70eced13a7.jpg" aling="right" width="1500" hight="600">
 <h3 align="center">UI Designer,Java programmer and Machine learning enthusiastic person.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uchamod&label=Profile%20views&color=0e75b6&style=flat" alt="uchamod" /> </p>
@@ -38,7 +38,7 @@ figma.I belive my process working hard on it.</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uchamod&show_icons=true&locale=en&layout=compact" alt="uchamod" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uchamod&show_icons=true&locale=en" alt="uchamod" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=uchamod&show_icons=true&locale=en" alt="uchamod" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uchamod&" alt="uchamod" /></p>
 
