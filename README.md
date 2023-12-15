@@ -6,13 +6,13 @@ current i am following BICT(hons) degree.I am so enthusiasm to discover new thin
 in UX reserches.I am currently do my programming works by java and C.And also I develop my UI design careea in
 figma.I belive my process working hard on it.
 
-[![Masterhead](https://images8.alphacoders.com/115/thumb-1920-1156488.png)]
+[![Masterhead](https://i.pinimg.com/originals/1b/df/6e/1bdf6edd0508b5c000cadb70eced13a7.jpg)]
 <h3 align="center">UI Designer,Java programmer and Machine learning enthusiastic person.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uchamod&label=Profile%20views&color=0e75b6&style=flat" alt="uchamod" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img src="http://art-sheep.com/wp-content/uploads/2015/03/gifconnoisseur2.gif" aling="right" width="600">
+<img src="http://art-sheep.com/wp-content/uploads/2015/03/gifconnoisseur2.gif" aling="right" width="300">
 
 - 🌱 I’m currently learning **UI/UX design**
 
