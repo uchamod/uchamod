@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-<!--I'm Chamod Udara from sri lanka.
-I'm undergraduate student in university of sri jayawardananapura.
-current i am following BICT(hons) degree.I am so enthusiasm to discover new things specially 
-in UX reserches.I am currently do my programming works by java and C.And also I develop my UI design careea in
-figma.I belive my process working hard on it.-->
+-
 
-<!--[![Masterhead](https://i.pinimg.com/originals/1b/df/6e/1bdf6edd0508b5c000cadb70eced13a7.jpg)]-->
 <img src="https://i.pinimg.com/originals/1b/df/6e/1bdf6edd0508b5c000cadb70eced13a7.jpg" aling="right" width="1500" hight="600">
-<h3 align="center">UI Designer,Java programmer and Machine learning enthusiastic person.</h3>
+<h3 align="center">flutter developer,back-end developer(spring boot) and Machine learning enthusiastic person.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uchamod&label=Profile%20views&color=0e75b6&style=flat" alt="uchamod" /> </p>
 
@@ -17,13 +12,14 @@ figma.I belive my process working hard on it.-->
 <p aling="left">I'm Chamod Udara from sri lanka.
 I'm undergraduate student in university of sri jayawardananapura.
 current i am following BICT(hons) degree.I am so enthusiasm to discover new things specially 
-in UX reserches.I am currently do my programming works by java and C.And also I develop my UI design careea in
+in flutter developemnt.I am currently do my programming works by java and dart programming languages.And also I develop my UI design careea in
 figma.I belive my process working hard on it.</p>
 
 - 🌱 I’m currently learning **UI/UX design**
 
-- 📫 How to reach me **uchamod52@gmail.com**
-
+- 📫 How to reach me 
+  **uchamod52@gmail.com**
+  **(https://www.linkedin.com/in/chamod-udara-b3927a239/)**
   <h3>Made For Steel<h3>
 
 <h3 align="left">Connect with me:</h3>
