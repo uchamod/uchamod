@@ -9,9 +9,12 @@ I'm a passionate UI/UX Designer, Flutter Developer, and Tech Enthusiast with a d
 
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchamod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img width="450" height=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchamod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
-![](https://github-readme-streak-stats.herokuapp.com/?user=uchamod&theme=dark&hide_border=false)
+<div align="center">
+  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=uchamod&theme=dark&hide_border=false" />
+</div>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=uchamod&theme=dark&hide_border=false) -->
 
 
 ---
