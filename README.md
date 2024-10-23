@@ -18,6 +18,5 @@ I'm a passionate UI/UX Designer, Flutter Developer, and Tech Enthusiast with a d
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=uchamod&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
