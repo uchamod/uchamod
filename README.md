@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello! 👋 Welcome to My GitHub!
 I'm a passionate UI/UX Designer, Flutter Developer, and Tech Enthusiast with a deep interest in building mobile and web applications. Always eager to explore new technologies and solve challenging problems!
 
 
