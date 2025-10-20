@@ -16,7 +16,7 @@ I'm a passionate UI/UX Designer, Flutter Developer, and Tech Enthusiast with a d
 </div>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=uchamod&theme=dark&hide_border=false) -->
 
-
+![Snake animation](https://raw.githubusercontent.com/uchamod/uchamod/output/github-contribution-grid-snake-dark.svg)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
