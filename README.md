@@ -1,5 +1,6 @@
 <h1 align="center">Hello! 👋 Welcome to My GitHub!</h1>
-I'm a passionate UI/UX Designer, Flutter Developer, and Tech Enthusiast with a deep interest in building mobile and web applications. Always eager to explore new technologies and solve challenging problems!
+Full-Stack Mobile & Backend Developer | Driving Innovative Mobile + Cloud Solutions with Flutter,Node.js, Spring Boot, AWS, Firebase & React | UI/UX Focused
+Always eager to explore new technologies and solve challenging problems!
 
 
 
