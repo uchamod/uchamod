@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋 Welcome to My GitHub!</h1>
 Full-Stack Mobile & Backend Developer | Driving Innovative Mobile + Cloud Solutions with Flutter,Node.js, Spring Boot, AWS, Firebase & React | UI/UX Focused
-# ✌️ !Always eager to explore new technologies and solve challenging problems!
+✌️ !Always eager to explore new technologies and solve challenging problems!
 
 
 
