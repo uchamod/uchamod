@@ -15,7 +15,6 @@ Full-Stack Mobile & Backend Developer | Driving Innovative Mobile + Cloud Soluti
 <div align="center">
   <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=uchamod&theme=dark&hide_border=false" />
 </div>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=uchamod&theme=dark&hide_border=false) -->
 
 ![My Profile Pic](octa.png)
 
