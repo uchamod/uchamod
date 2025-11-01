@@ -13,10 +13,8 @@ Full-Stack Mobile & Backend Developer | Driving Innovative Mobile + Cloud Soluti
   <img width="450" height=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchamod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 <div align="center">
-  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=uchamod&theme=dark&hide_border=false" />
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=uchamod&theme=dark&hide_border=false" />
 </div>
-
-![My Profile Pic](octa.png)
 
 <div align="center">
   <img width="600" src="octa.png" />
