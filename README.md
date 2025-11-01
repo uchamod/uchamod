@@ -18,6 +18,10 @@ Full-Stack Mobile & Backend Developer | Driving Innovative Mobile + Cloud Soluti
 
 ![My Profile Pic](octa.png)
 
+<div align="center">
+  <img width="600" src="octa.png" />
+</div>
+
 ![Snake animation](https://raw.githubusercontent.com/uchamod/uchamod/output/github-contribution-grid-snake-dark.svg)
 ---
 
